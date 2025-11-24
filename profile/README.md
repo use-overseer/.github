@@ -1,44 +1,66 @@
 # 👋 Willkommen
 
-Danke für dein Interesse an diesem Projekt. Hier findest du eine Umgebung, die darauf ausgerichtet ist, **sicher, privat und kollaborativ** zu entwickeln – ohne unnötige Preisgabe persönlicher Daten.
+Vielen Dank für dein Interesse an **Overseer**.
+Dieses Projekt bietet eine Entwicklungsumgebung, die auf **Sicherheit, Privatsphäre und kollaborative Arbeit** ausgelegt ist – ohne unnötige Offenlegung persönlicher Informationen.
 
-## Privatsphäre und Anonymität bei Beiträgen
+---
 
-Um unsere Mitwirkenden zu schützen und ein sicheres Umfeld zu fördern, verwenden wir Tools, die Beiträge ohne Offenlegung der eigenen Identität ermöglichen:
+# Privatsphäre & Anonymität bei Beiträgen
 
-### GitMask  
-Ermöglicht Commits und Pull Requests, ohne die echte Identität offenzulegen.  
-Ideal für alle, die beitragen möchten, ohne ihre Hauptidentität zu verknüpfen.
+Der Schutz unserer Mitwirkenden hat höchste Priorität.
+Um ein sicheres, neutrales und vertrauenswürdiges Umfeld zu gewährleisten, unterstützen wir Werkzeuge, die Beiträge **ohne Preisgabe der eigenen Identität** ermöglichen.
 
-### 🕶️ Anonymous GitHub  
-Bietet eine zusätzliche Möglichkeit, Beiträge ohne sichtbare Metadaten einzureichen.  
-Perfekt zum Melden von Fehlern, Vorschlagen von Verbesserungen oder Einreichen von Code – völlig anonym.
+## GitMask
 
-> **Wichtiger Hinweis:**  
-> Bitte stelle vor dem Einreichen sicher, dass du sensible Metadaten aus deinen Dateien oder binären Anhängen entfernst.
+Erlaubt das Erstellen von **Commits** und **Pull Requests**, ohne dass deine echte Identität sichtbar wird.
+Besonders geeignet für Entwicklerinnen und Entwickler, die aktiv mitarbeiten möchten, ohne ihre Hauptidentität oder ihren persönlichen GitHub-Account offenzulegen.
 
-## Sichere Kommunikation (PGP)
+## Anonymous GitHub
 
-Für alle offiziellen Mitteilungen verwenden wir **PGP-signierte E-Mails**.  
-Unsere öffentliche Signatur findest du auf:
+Bietet eine vollkommen anonyme Möglichkeit, **Issues**, **Vorschläge** oder **Code-Snippets** einzureichen – **ohne** Account, ohne E-Mail, ohne Metadaten.
+Ideal für gelegentliche Beiträge oder sicherheitsrelevante Rückmeldungen.
+
+> **Hinweis:**
+> Bitte überprüfe vor dem Einreichen, ob deine Dateien oder Binäranhänge keine sensiblen Metadaten enthalten.
+
+---
+
+# Sichere Kommunikation (PGP)
+
+Alle offiziellen Mitteilungen des Projekts werden **PGP-signiert** versendet.
+Der aktuelle öffentliche Schlüssel ist verfügbar unter:
 
 **keys.openpgp.org**
 
-Dies gewährleistet Authentizität, Integrität und Schutz vor Identitätsfälschung.
+Dies garantiert:
 
-## Wie kannst du mitarbeiten?
+* Echtheit der Kommunikation
+* Integrität der Daten
+* Schutz vor Identitätsmissbrauch
 
-1. Richte dein Umfeld mit GitMask oder Anonymous GitHub ein.  
-2. Erstelle ein Issue oder einen Pull Request über einen dieser Dienste.  
-3. Für direkte Kommunikation verwende bitte PGP-signierte E-Mails.  
-4. Befolge die Beitragsrichtlinien des jeweiligen Repositories.
+---
 
-## Über uns
+# Wie du mitarbeiten kannst
 
-**Overseer Project**  
-Wir erleichtern die Verwaltung von Versammlungen der Zeugen Jehovas.
-Mit Fokus auf Privatsphäre, Einfachheit und praktischen Nutzen – für Versammlungen und Entwickler.
+1. Wähle deine bevorzugte Methode: **GitMask** oder **Anonymous GitHub**.
+2. Reiche ein Issue oder einen Pull Request über das gewählte Werkzeug ein.
+3. Verwende für vertrauliche oder direkte Kommunikation bitte **PGP-signierte E-Mails**.
+4. Befolge die jeweiligen Beitragsrichtlinien der einzelnen Repositories.
 
-📍 Schweiz  
-🌐 https://www.useoverseer.org/  
-📧 overseer@privacyrequired.com
+Wir freuen uns über jede Form der Mitwirkung – unabhängig davon, ob sie anonym erfolgt oder nicht.
+
+---
+
+# Über Overseer
+
+**Overseer Project**
+Wir erleichtern die Verwaltung von Versammlungen der Zeugen Jehovas – mit besonderem Fokus auf:
+
+* Privatsphäre
+* Einfachheit
+* Praktischen Nutzen
+* Verantwortungsvollen Umgang mit sensiblen Informationen
+
+📍 **Schweiz**
+🌐 **[https://www.useoverseer.org/](https://www.useoverseer.org/)**
+📧 **[overseer@privacyrequired.com](mailto:overseer@privacyrequired.com)**
