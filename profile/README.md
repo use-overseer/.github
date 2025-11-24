@@ -1,66 +1,66 @@
 # 👋 Willkommen
 
-Vielen Dank für dein Interesse an **Overseer**.
-Dieses Projekt bietet eine Entwicklungsumgebung, die auf **Sicherheit, Privatsphäre und kollaborative Arbeit** ausgelegt ist – ohne unnötige Offenlegung persönlicher Informationen.
+Thank you for your interest in **Overseer**.
+This project provides a development environment designed for **security, privacy, and collaborative work** — without unnecessary disclosure of personal information.
 
 ---
 
-# Privatsphäre & Anonymität bei Beiträgen
+# Privacy & Anonymity in Contributions
 
-Der Schutz unserer Mitwirkenden hat höchste Priorität.
-Um ein sicheres, neutrales und vertrauenswürdiges Umfeld zu gewährleisten, unterstützen wir Werkzeuge, die Beiträge **ohne Preisgabe der eigenen Identität** ermöglichen.
+Protecting our contributors is a top priority.
+To ensure a safe, neutral, and trustworthy environment, we support tools that enable contributions **without revealing your identity**.
 
 ## GitMask
 
-Erlaubt das Erstellen von **Commits** und **Pull Requests**, ohne dass deine echte Identität sichtbar wird.
-Besonders geeignet für Entwicklerinnen und Entwickler, die aktiv mitarbeiten möchten, ohne ihre Hauptidentität oder ihren persönlichen GitHub-Account offenzulegen.
+Allows you to create **commits** and **pull requests** without exposing your real identity.
+Especially useful for developers who want to contribute actively without revealing their primary identity or personal GitHub account.
 
 ## Anonymous GitHub
 
-Bietet eine vollkommen anonyme Möglichkeit, **Issues**, **Vorschläge** oder **Code-Snippets** einzureichen – **ohne** Account, ohne E-Mail, ohne Metadaten.
-Ideal für gelegentliche Beiträge oder sicherheitsrelevante Rückmeldungen.
+Provides a fully anonymous way to submit **issues**, **suggestions**, or **code snippets** — **no account, no email, no metadata**.
+Ideal for occasional contributions or security-related reports.
 
-> **Hinweis:**
-> Bitte überprüfe vor dem Einreichen, ob deine Dateien oder Binäranhänge keine sensiblen Metadaten enthalten.
+> **Note:**
+> Please ensure your files or binary attachments do not contain sensitive metadata before submitting.
 
 ---
 
-# Sichere Kommunikation (PGP)
+# Secure Communication (PGP)
 
-Alle offiziellen Mitteilungen des Projekts werden **PGP-signiert** versendet.
-Der aktuelle öffentliche Schlüssel ist verfügbar unter:
+All official project communications are sent with **PGP signatures**.
+The current public key is available at:
 
 **keys.openpgp.org**
 
-Dies garantiert:
+This ensures:
 
-* Echtheit der Kommunikation
-* Integrität der Daten
-* Schutz vor Identitätsmissbrauch
-
----
-
-# Wie du mitarbeiten kannst
-
-1. Wähle deine bevorzugte Methode: **GitMask** oder **Anonymous GitHub**.
-2. Reiche ein Issue oder einen Pull Request über das gewählte Werkzeug ein.
-3. Verwende für vertrauliche oder direkte Kommunikation bitte **PGP-signierte E-Mails**.
-4. Befolge die jeweiligen Beitragsrichtlinien der einzelnen Repositories.
-
-Wir freuen uns über jede Form der Mitwirkung – unabhängig davon, ob sie anonym erfolgt oder nicht.
+* Authenticity of communication  
+* Data integrity  
+* Protection against identity misuse  
 
 ---
 
-# Über Overseer
+# How You Can Contribute
 
-**Overseer Project**
-Wir erleichtern die Verwaltung von Versammlungen der Zeugen Jehovas – mit besonderem Fokus auf:
+1. Choose your preferred method: **GitMask** or **Anonymous GitHub**.  
+2. Submit an issue or pull request using your chosen tool.  
+3. For confidential or direct communication, please use **PGP-signed emails**.  
+4. Follow the contribution guidelines for each repository.
 
-* Privatsphäre
-* Einfachheit
-* Praktischen Nutzen
-* Verantwortungsvollen Umgang mit sensiblen Informationen
+We appreciate every form of contribution — whether anonymous or not.
 
-📍 **Schweiz**
-🌐 **[https://www.useoverseer.org/](https://www.useoverseer.org/)**
-📧 **[overseer@privacyrequired.com](mailto:overseer@privacyrequired.com)**
+---
+
+# About Overseer
+
+**Overseer Project**  
+We simplify the management of Jehovah’s Witness congregations — with a strong focus on:
+
+* Privacy  
+* Simplicity  
+* Practical usefulness  
+* Responsible handling of sensitive information  
+
+📍 **Switzerland**  
+🌐 **https://www.useoverseer.org/**  
+📧 **overseer@privacyrequired.com**
